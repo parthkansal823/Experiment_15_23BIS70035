@@ -107,3 +107,8 @@ app.listen(3000, () => console.log('Server running on port 3000'));
 | POST   | /products                       | Add a new product                 |
 
 ## Screen Shots
+### 1. Add a new product (POST)
+![Alt Text](res1.png)
+
+### 2. Get all products
+![Alt Text](res2.png)
