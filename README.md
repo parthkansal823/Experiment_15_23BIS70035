@@ -112,3 +112,7 @@ app.listen(3000, () => console.log('Server running on port 3000'));
 
 ### 2. Get all products
 ![Alt Text](res2.png)
+
+<p align="center">
+    MADE by PARTH KANSAL 23BIS70035
+</p>
