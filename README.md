@@ -29,6 +29,7 @@ mongod
 node server.js
 ```
 ## Code
+### script.js
 ```js
 const express = require('express');
 const mongoose = require('mongoose');
@@ -105,3 +106,4 @@ app.listen(3000, () => console.log('Server running on port 3000'));
 | GET    | /products/by-color/:color       | Get products by variant color     |
 | POST   | /products                       | Add a new product                 |
 
+## Screen Shots
